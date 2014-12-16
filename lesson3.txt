@@ -4,3 +4,7 @@ Why might you want to always pull changes manually rather than having Git automa
 If you work together with someone else and on same branch it could make things complicated. 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It makes it possible to pull the right things in stead of just quessing.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It would be something with sending by email and manually looking through for finding differences.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I would do it when I'm changing a feature in the program and not just a bug or a typo. 
